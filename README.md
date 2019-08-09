@@ -17,5 +17,4 @@ Dependências "secundárias"
   
   Como utilizar:
   
-  De maneira simples, após o Downloads ir no arquivo src/main/resources e dentro de application.properties descomentar a linha #spring.profiles.active=test e comentar o código anterior. Então, você pode acessar via 
-navegador http://localhost:8080/h2-console acessar o db de teste da aplicação ou inserir dados via InSomnia ou Postman. Após, mandar um run spring-boot na aplicação é claro.
+  De maneira simples, após o Download você pode acessar via navegador http://localhost:8080/h2-console o db de teste da aplicação ou inserir dados via InSomnia ou Postman. Após, mandar um run spring-boot na aplicação é claro.
